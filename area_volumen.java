@@ -21,7 +21,7 @@ public class area_volumen
         area = Math.PI * Math.pow(r,2);
         
         //calculo del volumen
-        volumen = volumen=(4/3)*Math.PI*(r*r*r);
+        volumen = (4/3)*Math.PI*(r*r*r);
         
         System.out.println("el área del circulo es " + area);
         System.out.println("el el volumen de la esfera es " + volumen);
